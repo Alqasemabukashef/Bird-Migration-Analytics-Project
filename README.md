@@ -10,8 +10,44 @@ This repository contains files related to a project focused on analyzing bird mi
 1. **Bird Migration-power bi project.pbix**  
    A Power BI project file containing visualizations and insights into bird migration patterns. The report includes various charts, trends, and analyses that help in understanding migration data.
 
-2. **bird_migration_data.csv**  
-   A CSV file containing raw data related to bird migration. The dataset includes information on bird species, migration dates, routes, and other migration-related data points. This data serves as the foundation for the Power BI analysis.
+2.**Overall Report Summary:
+This report looks at how different birds migrate around the world. Using data from a big bird migration dataset, it explores why birds migrate, which species travel where, how successful their journeys are, and how weather and seasons affect their migration. It uses clear visuals and maps to help us understand bird migration patterns better, which can be useful for scientists and nature lovers interested in protecting these birds.
+
+
+
+### Page Highlights and Insights
+
+###  Page 1: Bird Migration Overview
+This page gives a big-picture view of bird migration. It explains the main reasons why birds migrate, like avoiding predators, finding food, or breeding. It shows interesting facts like how far and how fast birds usually fly and how many migrations succeed versus fail. There are also maps showing where migrations start and end, focusing on North America.
+
+###  Page 2: Species and Regions
+Here, the report breaks down migration by bird types—like hawks, cranes, and swallows—and looks at which regions they travel to. It compares how successful each species is in completing their migration and shows where they’re mostly found across the continents. It also looks at how far they travel and how fast they fly on average.
+
+###  Page 3: Environmental Impact
+This page explores how weather affects bird migration. It looks at how things like temperature, humidity, air pressure, and different weather conditions (rain, fog, wind) influence how far and fast birds fly and whether they succeed. For example, birds might fly differently in foggy or stormy weather, which affects their chances of success.
+### Page 4: Migration Timing Patterns
+This part shows when birds start and finish their migrations during the year. It highlights the months when most birds begin or end their trips and how this timing varies depending on the species and the reason for migrating. This helps us understand the seasonal rhythms of bird migration.
+
+### Page 5: Regional Migration Insights
+Finally, the report looks closely at different regions of the world and compares how many migrations happen there and how successful they are. It also looks at the flying altitude of different birds during migration. This helps identify important migration routes and regions where birds might need more protection.
+
+
+Source : Bird Migration Dataset from Kaggle
+
+
+
+Done with Love and mastery by : Al-Qasem Abukashef
+
+
+
+Email: q.abukashef@gmail.com
+
+
+
+Github : Alqasem abukashef
+
+
+
 
 ## Purpose
 
